@@ -1,2 +1,2 @@
 # easy_blockchain
-Simulacion del funcionamineto en el proceso de encriptacion de una blockchain
+Simulacion del funcionamiento en el proceso de encriptacion de una blockchain
